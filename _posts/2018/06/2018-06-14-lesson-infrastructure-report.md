@@ -7,6 +7,7 @@ date: 2018-06-14
 time: "9:00:00"
 tags: ["CarpentryCon", "Lesson Template", "RMarkdown"]
 comments: true
+show_meta: true
 ---
 
 One of the breakout sessions at CarpentryCon focussed on lesson infrastructure:
