@@ -6,6 +6,7 @@ teaser: "Find out what we talked about during the lesson infrastructure breakout
 date: 2018-06-14
 time: "9:00:00"
 tags: ["CarpentryCon", "Lesson Template", "RMarkdown"]
+comments: true
 ---
 
 One of the breakout sessions at CarpentryCon focussed on lesson infrastructure:
