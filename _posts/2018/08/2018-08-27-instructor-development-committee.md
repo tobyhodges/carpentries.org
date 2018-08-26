@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: page
 authors: ["Toby Hodges"]
 title: "Introducing the Instructor Development Committee"
-date: 2018-08-24
-time: "11:17:14"
-category: ["Mentoring", "Instructor Development", "Discussion Sessions"]
+date: 2018-08-27
+time: "11:00:00"
+tags: ["Mentoring", "Instructor Development", "Discussion Sessions"]
 ---
 
 After some discussion, at recent meetings of the Mentoring Committee and on
@@ -14,18 +14,20 @@ chosen to rename the group. We will now be the __Instructor Development Committe
 The discussion came about from an acknowledgement that "Mentoring" implied that
 the Committee focussed solely on mentoring activities such as the Mentoring
 Groups Program (more on which below). While it's true that part of what we do
-is to support the amazing work that Kari Jordan and others do with the Groups,
+is to support the amazing work that Kari Jordan and others do withmentoring groups,
 that's only one aspect of the conversations that we have at our monthly meetings
-and the activity of the Committee members outside of those meetings. We also
+and the activity of the Committee members outside of those meetings. 
+
+We also
 coordinate the instructor discussion sessions, which [I've gushed about before][discussion-blogpost],
 and would love to work more on new projects to support the development of our 
 instructor community. We proposed the name change to reflect this, and to reduce
 the potential for confusion around the naming of our repositories and mailing 
 lists (we currently have lists called _mentoring_, _mentees_, and _mentors_).
 
-In practical terms, what this means is that our repository will change name/URL,
+In practical terms, what this means is that our repository will change its name/URL,
 so those of you who have a clone of that repo will need to update your remote
-to reflect that. I'll send instructions to achieve that out to the mailing list
+to reflect that. I'll send instructions on how to achieve that to the mailing list
 soon. Speaking of the mailing list, that will also change address but no one
 need re-subscribe: we can transfer the subscriptions over. Some of us will also
 be working to update the wording on the Carpentries website and in our various
@@ -48,7 +50,7 @@ better.
 
 To finish, a brief word about the Carpentries Mentoring Groups Program,
 which is about to enter another round. Although I couldn't commit the time to
-be a mentor in the previous round, I attended the Virtual Showcase last week, 
+be a mentor in the previous round, I attended the [Virtual Showcase](https://carpentries.org/blog/2018/08/sign-up-mentoring/) last week, 
 where mentors and mentees described the progress that they'd made with their
 group and the positive effect that it had had on them. I was struck by the 
 enthusiasm of the participants and the frequent mentions made by mentees of how
